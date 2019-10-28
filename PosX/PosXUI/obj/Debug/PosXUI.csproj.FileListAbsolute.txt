@@ -1,0 +1,11 @@
+C:\GitBash2019\PosX\PosX\PosXUI\bin\Debug\PosXUI.exe.config
+C:\GitBash2019\PosX\PosX\PosXUI\bin\Debug\PosXUI.exe
+C:\GitBash2019\PosX\PosX\PosXUI\bin\Debug\PosXUI.pdb
+C:\GitBash2019\PosX\PosX\PosXUI\bin\Debug\PosXLib.dll
+C:\GitBash2019\PosX\PosX\PosXUI\bin\Debug\PosXLib.pdb
+C:\GitBash2019\PosX\PosX\PosXUI\obj\Debug\PosXUI.csprojResolveAssemblyReference.cache
+C:\GitBash2019\PosX\PosX\PosXUI\obj\Debug\PosXUI.FrmProduct.resources
+C:\GitBash2019\PosX\PosX\PosXUI\obj\Debug\PosXUI.Properties.Resources.resources
+C:\GitBash2019\PosX\PosX\PosXUI\obj\Debug\PosXUI.csproj.GenerateResource.Cache
+C:\GitBash2019\PosX\PosX\PosXUI\obj\Debug\PosXUI.exe
+C:\GitBash2019\PosX\PosX\PosXUI\obj\Debug\PosXUI.pdb

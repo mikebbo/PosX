@@ -1,0 +1,5 @@
+C:\GitBash2019\PosX\PosX\PosXLib\obj\Debug\PosXLib.csprojResolveAssemblyReference.cache
+C:\GitBash2019\PosX\PosX\PosXLib\bin\Debug\PosXLib.dll
+C:\GitBash2019\PosX\PosX\PosXLib\bin\Debug\PosXLib.pdb
+C:\GitBash2019\PosX\PosX\PosXLib\obj\Debug\PosXLib.dll
+C:\GitBash2019\PosX\PosX\PosXLib\obj\Debug\PosXLib.pdb
