@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PosXLib.Model
 {
-    class ProductModel
+   public class ProductModel
     {
         public int itemNumber { get; set; }
         public string barcode { get; set; }

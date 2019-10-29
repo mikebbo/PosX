@@ -1,0 +1,10 @@
+C:\GitBash2019\PosX\PosX\UnitTestPosx\bin\Debug\UnitTestPosx.dll
+C:\GitBash2019\PosX\PosX\UnitTestPosx\bin\Debug\UnitTestPosx.pdb
+C:\GitBash2019\PosX\PosX\UnitTestPosx\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\GitBash2019\PosX\PosX\UnitTestPosx\bin\Debug\PosXLib.dll
+C:\GitBash2019\PosX\PosX\UnitTestPosx\bin\Debug\PosXLib.pdb
+C:\GitBash2019\PosX\PosX\UnitTestPosx\obj\Debug\UnitTestPosx.csprojResolveAssemblyReference.cache
+C:\GitBash2019\PosX\PosX\UnitTestPosx\obj\Debug\UnitTestPosx.ValidateForm.resources
+C:\GitBash2019\PosX\PosX\UnitTestPosx\obj\Debug\UnitTestPosx.csproj.GenerateResource.Cache
+C:\GitBash2019\PosX\PosX\UnitTestPosx\obj\Debug\UnitTestPosx.dll
+C:\GitBash2019\PosX\PosX\UnitTestPosx\obj\Debug\UnitTestPosx.pdb

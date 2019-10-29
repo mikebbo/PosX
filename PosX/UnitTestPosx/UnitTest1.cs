@@ -1,4 +1,6 @@
 ﻿using System;
+using PosXLib.Model;
+
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace UnitTestPosx
@@ -10,5 +12,21 @@ namespace UnitTestPosx
         public void TestMethod1()
         {
         }
+        [TestMethod]
+        public bool saveModelToDb(ProductModel p)
+        {
+            
+            
+            return true;
+        }
+
+        [TestMethod]
+        public void isValid()
+        {
+           
+
+        }
+
+        
     }
 }
